@@ -1,0 +1,17 @@
+<resources>
+    <string name="error">Unknown error occurred</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_full_text">Full Text Search</string>
+    <string name="search_vector_text">Vector Text Search</string>
+    <string name="search_vector_image">Vector Image Search</string>
+    <string name="action_open">Open</string>
+    <string name="action_copy_url">Copy Link</string>
+    <string name="action_share">Share</string>
+    <string name="copy_url_success">Link copied to clipboard</string>
+    <string name="copy_text_success">Text copied to clipboard</string>
+    <string name="action_copy_text">Copy Text</string>
+    <string name="splash_welcome">Welcome to Meme Index</string>
+    <string name="splash_server_base_path">Server base URL</string>
+    <string name="action_set_server">Use this server</string>
+    <string name="splash_invalid_server">Not a meme-index server (or unreachable)</string>
+</resources>

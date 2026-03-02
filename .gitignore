@@ -1,0 +1,13 @@
+*.iml
+/.idea
+/run
+/.kotlin
+/.gradle
+**/build/
+local.properties
+/kotlin-js-store
+/.pi
+server-build
+app/androidApp/release
+node_modules/
+hs_err_pid*.log
